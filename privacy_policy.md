@@ -1,3 +1,5 @@
+# Privacy Policy
+
 This Product does not collect, transmit, or store any personal or sensitive data. 
 
 The Product uses minimal permissions to locally process user traffic, including:

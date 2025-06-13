@@ -23,6 +23,11 @@ If you want to stop redirecting temporarily, you can do so by pinning the extens
 5. The extension should now be installed and active
 6. If you modify the extension, reload it by clicking the refresh icon in `chrome://extensions/`
 
+The extension is zipped for upload to the Chrome webstore using the following command which excludes .git files:
+```
+zip -r ebird_region_redirect.zip ebird_region_redirect  -x '*.git*'
+```
+
 ## Generative AI statement
 
 This application was created by pair-coding with Cursor.

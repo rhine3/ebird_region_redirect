@@ -30,4 +30,4 @@ zip -r ebird_region_redirect.zip ebird_region_redirect  -x '*.git*'
 
 ## Generative AI statement
 
-This application was created by pair-coding with Cursor.
+I created this application using the Cursor editor and coding assistant.

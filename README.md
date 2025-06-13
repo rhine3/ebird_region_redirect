@@ -1,6 +1,6 @@
 # eBird Region Redirect Chrome Extension
 
-Automatically redirect eBird region and hotspot URLs to the all-years species checklist version of the page.
+Automatically redirect eBird region/hotspot pages from the default Overview page to the all-years species checklist version of the page.
 
 For example:
 - `https://ebird.org/region/US-CA` → `https://ebird.org/region/US-CA/bird-list`
@@ -8,11 +8,11 @@ For example:
 
 ## About
 
-Currently, the Overview page highlights only species eBirded in the current month and to summarize recent checklists and media.
+Currently, the eBird Overview page for regions/hotspots highlights only species eBirded in the current month. It also summarizes recent checklists and media.
 
-This extension redirects to the previous default, which is a list of all species eBirded in all years, sorted by most recently observed.
+Instead, this extension redirects to show the information that used to be the default: a list of all species eBirded in all years, sorted by most recently observed.
 
-If you pin this extension in your browser toolbar, you can enable or disable redirects, e.g., if you experience a glitch or if you want to see the current Overview page.
+If you want to stop redirecting temporarily, you can do so by pinning the extension in your browser toolbar and toggling redirects on or off.
 
 ## Developer installation
 
